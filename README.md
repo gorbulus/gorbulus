@@ -12,7 +12,7 @@ I currently live in Jacksonville, Florida. 🌴
 
 I'm passionate about guitars, data, Python, and my dogs - Jazzy and Piper. 🎸
 
-I like to build things with Python, R, SQL/NoSQL, Django, and C#/.Net. 🤖
+I like to build things with Python, R, SQL/PostgreSQL, Django, and C#/.Net. 🤖
 
 I use my talents to connect the dots using an analytical approach to data. 🌎
 
