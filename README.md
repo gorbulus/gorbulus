@@ -1,3 +1,5 @@
+![Product Manager](https://user-images.githubusercontent.com/19881320/120910352-2675ca80-c64c-11eb-9448-7b2e4ac9ddd2.png)
+
 ### Hi there 👋
 
 <!--
