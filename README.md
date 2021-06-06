@@ -10,7 +10,7 @@ I'm a software developer from Dallas, Texas. 🐮
 
 I currently live in Jacksonville, Florida. 🌴
 
-I'm passionate about guitars, data, Python, and my dogs. 🎸
+I'm passionate about guitars, data, Python, and my dogs - Jazzy and Piper. 🎸
 
 I like to build things with Python, R, SQL/NoSQL, Django, and C#/.Net. 🤖
 
@@ -22,7 +22,7 @@ I follow the 'Jobs to be done' Product management philosophy - customers 'hire' 
 
 I'm currently dedicating a high percentage of my time to learning Django, playing with datasets, and improving my UI skills. 🐍
 
-I'd like to get more experience contributing to open-souce projects and some hand-on work with APIs.👯  
+I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs.👯  
 
 
 ### You can find me on:
