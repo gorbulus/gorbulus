@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" src="https://user-images.githubusercontent.com/19881320/120911465-b2d8bb00-c655-11eb-9efb-298d23084cbf.png">
+  <img src="https://user-images.githubusercontent.com/19881320/120911465-b2d8bb00-c655-11eb-9efb-298d23084cbf.png">
 </p>
 
 Hey! I'm @gorbulus (Will Ponton) 👋
