@@ -5,6 +5,7 @@
 ![Product Manager](https://user-images.githubusercontent.com/19881320/120910352-2675ca80-c64c-11eb-9448-7b2e4ac9ddd2.png)
 
 Hey! I'm @gorbulus (Will Ponton) 👋
+
 Pronouns: he/him/his 😄
 
 I'm a software developer from Dallas, Texas. 🐮
@@ -13,15 +14,15 @@ I currently live in Jacksonville, Florida. 🌴
 
 I'm passionate about guitars, data, Python, and my dogs. 🎸
 
-I'm working as a Product Manager and implemented one of the largest PIMs in the world. ⚡
+I like to build things with Python, R, SQL/NoSQL, Django, and C#/.Net. 🤖
 
 I use my talents to connect the dots using an analytical approach to data. 🌎
 
+I'm working as a Product Manager and implemented one of the largest PIMs in the world. ⚡
+
 I follow the 'Jobs to be done' Product management philosophy - customers 'hire' your poduct to satisfy job steps. 👷
 
-I like to build things with Python, R, SQL/NoSQL, Django, and C#/.Net. 🤖
-
-I'm currently dedicating a high percentage of my time to learning Django, playing with datasets, and improving my UI skills.  I labsolutely love diagramming and wireframe creation. 🌱
+I'm currently dedicating a high percentage of my time to learning Django, playing with datasets, and improving my UI skills. 🐍
 
 I'd like to get more experience contributing to open-souce projects and some hand-on work with APIs.👯  
 
