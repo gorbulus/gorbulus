@@ -36,8 +36,3 @@ I'd like to get more experience contributing to open-souce projects and some han
 [Medium](https://medium.com/@waponton)
 
 ![wponton_banner_v2](https://user-images.githubusercontent.com/19881320/120911487-d56ad400-c655-11eb-890f-09278a9229b6.png)
-
-<a href="https://github.com/gorbulus/bookmine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gorbulus&repo=bookmine" />
-</a>
-
