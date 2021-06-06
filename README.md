@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="180" src="https://user-images.githubusercontent.com/19881320/54484151-b85c4780-4836-11e9-923f-c5e0e5afe866.jpg">
+  <img width="180" src="https://user-images.githubusercontent.com/19881320/120911465-b2d8bb00-c655-11eb-9efb-298d23084cbf.png">
 </p>
-
-![wponton_banner_v1](https://user-images.githubusercontent.com/19881320/120911418-67261180-c655-11eb-8379-b99acf8dddba.png)
 
 Hey! I'm @gorbulus (Will Ponton) 👋
 
@@ -37,4 +35,5 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 [Medium](https://medium.com/@waponton)
 
-![wponton_banner_v2](https://user-images.githubusercontent.com/19881320/120911433-7e64ff00-c655-11eb-8156-79a7f6cd1e30.png)
+![wponton_banner_v2](https://user-images.githubusercontent.com/19881320/120911487-d56ad400-c655-11eb-890f-09278a9229b6.png)
+
