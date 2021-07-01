@@ -29,7 +29,7 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 [Github: @gorbulus](https://github.com/gorbulus) (you are here!)
 
-[LinkedIn](https://www.linkedin.com/in/williampontoncfsp/) 
+[LinkedIn](https://www.linkedin.com/in/williamponton/) 
 
 [repl.it/@gorbulus](https://repl.it/@gorbulus)
 
