@@ -26,6 +26,8 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gorbulus)](https://git.io/streak-stats)
+
 ### You can find me on:
 
 [Github: @gorbulus](https://github.com/gorbulus) (you are here!)
