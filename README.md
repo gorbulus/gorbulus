@@ -24,7 +24,7 @@ I'm currently dedicating a high percentage of my time to learning Django, playin
 
 I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs.👯  
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=radical)
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gorbulus&theme=dark)](https://git.io/streak-stats)
 
