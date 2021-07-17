@@ -24,13 +24,9 @@ I'm currently dedicating a high percentage of my time to learning Django, playin
 
 I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs.👯  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
