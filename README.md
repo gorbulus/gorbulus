@@ -32,6 +32,14 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&show_icons=true&theme=radical)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="Twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/williamponton/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="Instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="YouTube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
+
 
 ### You can find me on:
 
