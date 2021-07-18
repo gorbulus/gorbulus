@@ -24,6 +24,10 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 [Github: @gorbulus](https://github.com/gorbulus) (you are here!)
 
+<a href="https://www.linkedin.com/in/williamponton/">
+         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+
 [LinkedIn](https://www.linkedin.com/in/williamponton/)  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 [repl.it/@gorbulus](https://repl.it/@gorbulus)
