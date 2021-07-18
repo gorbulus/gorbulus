@@ -6,29 +6,25 @@
 
 Pronouns: he/him/his 😄
 
-I'm a software developer from Dallas, Texas. 🐮
+I'm a software developer from Dallas, Texas 🐮 and I'm currently living in Jacksonville, Florida. 🌴
 
-I currently live in Jacksonville, Florida. 🌴
-
-I'm passionate about guitars, data, Python, and my dogs - Jazzy and Piper. 🎸
+I'm passionate about guitars, data, and my dogs - Jazzy and Piper. 🎸
 
 I like to build things with Python, R, SQL/PostgreSQL, Django, and C#/.Net. 🤖
 
-I use my talents to connect the dots using an analytical approach to data. 🌎
-
-I'm working as a Product Manager and implemented one of the largest PIMs in the world. ⚡
+I'm working as a Product Manager and use my tech and creative talents to build meaningful software. 🌎
 
 I follow the 'Jobs to be done' Product management philosophy - customers 'hire' your poduct to satisfy job steps. 👷
 
 I'm currently dedicating a high percentage of my time to learning Django, playing with datasets, and improving my UI skills. 🐍
 
-I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs.👯  
+I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs. 👯  
 
 ### You can find me on:
 
 [Github: @gorbulus](https://github.com/gorbulus) (you are here!)
 
-[LinkedIn](https://www.linkedin.com/in/williamponton/) 
+[LinkedIn](https://www.linkedin.com/in/williamponton/)  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 [repl.it/@gorbulus](https://repl.it/@gorbulus)
 
