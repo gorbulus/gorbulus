@@ -24,10 +24,6 @@ I'm currently dedicating a high percentage of my time to learning Django, playin
 
 I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs.👯  
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gorbulus&theme=dark)](https://git.io/streak-stats)
-
 ### You can find me on:
 
 [Github: @gorbulus](https://github.com/gorbulus) (you are here!)
@@ -37,5 +33,9 @@ I'd like to get more experience contributing to open-souce projects and some han
 [repl.it/@gorbulus](https://repl.it/@gorbulus)
 
 [Medium](https://medium.com/@waponton)
+
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gorbulus&theme=dark)](https://git.io/streak-stats)
 
 ![wponton_banner_v2](https://user-images.githubusercontent.com/19881320/120911487-d56ad400-c655-11eb-890f-09278a9229b6.png)
