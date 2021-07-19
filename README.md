@@ -42,7 +42,8 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gorbulus&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorbulus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorbulus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![wponton_banner_v2](https://user-images.githubusercontent.com/19881320/120911487-d56ad400-c655-11eb-890f-09278a9229b6.png)
