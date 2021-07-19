@@ -22,25 +22,21 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 ### You can find me on:
 
-<a href="https://github.com/gorbulus">
-       <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
-      </a>
-      
-
 <a href="https://www.linkedin.com/in/williamponton/">
          <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
       
-
+<a href="https://github.com/gorbulus">
+       <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+      </a>
+      
 <a href="https://repl.it/@gorbulus">
         <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>
       </a>
 
-
 <a href="https://medium.com/@waponton">
         <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
       </a>
-
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=dark)
 
