@@ -29,6 +29,10 @@ I'd like to get more experience contributing to open-souce projects and some han
  <a href="https://www.kaggle.com/pontwa">
         <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
       </a>
+
+<a href="https://leetcode.com/waponton/">
+       <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
+      </a>
        
 <a href="https://github.com/gorbulus">
        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
