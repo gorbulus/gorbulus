@@ -33,6 +33,10 @@ I'd like to get more experience contributing to open-souce projects and some han
 <a href="https://repl.it/@gorbulus">
         <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>
       </a>
+ 
+ <a href="https://www.codewars.com/users/gorbulus/completed">
+        <img alt="codewars badge small" src="https://www.codewars.com/users/markusende/badges/small" />
+      </a>
 
 <a href="https://medium.com/@waponton">
         <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
