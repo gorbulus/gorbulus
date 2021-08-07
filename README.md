@@ -40,7 +40,7 @@ I'd like to get more experience contributing to open-souce projects and some han
 
 <div>
       <a href="https://www.codewars.com/users/gorbulus/completed">
-              <img alt="codewars badge small" src="https://www.codewars.com/users/gorbulus/badges/small" />
+              <img alt="codewars badge small" src="https://www.codewars.com/users/gorbulus/badges/large" />
             </a>
 </div>
 
