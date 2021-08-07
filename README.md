@@ -21,20 +21,23 @@ I'm currently dedicating a high percentage of my time to learning Django, playin
 I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs. 👯  
 
 ### You can find me on:
-
-<a href="https://www.linkedin.com/in/williamponton/">
+<div>
+  <a href="https://www.linkedin.com/in/williamponton/">
          <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
-      
- <a href="https://www.kaggle.com/pontwa">
+
+  <a href="https://www.kaggle.com/pontwa">
         <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
       </a>
 
-<a href="https://leetcode.com/waponton/">
+  <a href="https://leetcode.com/waponton/">
        <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
-      </a>
-       
-<a href="https://github.com/gorbulus">
+      </a>  
+</div>
+
+
+<div>
+  <a href="https://github.com/gorbulus">
        <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
       </a>
       
@@ -45,6 +48,7 @@ I'd like to get more experience contributing to open-souce projects and some han
 <a href="https://medium.com/@waponton">
         <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
       </a>
+</div>       
 
 <div>
       <a href="https://www.codewars.com/users/gorbulus/completed">
