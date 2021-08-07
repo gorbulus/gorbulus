@@ -35,7 +35,7 @@ I'd like to get more experience contributing to open-souce projects and some han
       </a>
  
  <a href="https://www.codewars.com/users/gorbulus/completed">
-        <img alt="codewars badge small" src="https://www.codewars.com/users/markusende/badges/small" />
+        <img alt="codewars badge small" src="https://www.codewars.com/users/gorbulus/badges/small" />
       </a>
 
 <a href="https://medium.com/@waponton">
