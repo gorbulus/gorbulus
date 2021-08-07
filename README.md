@@ -34,13 +34,15 @@ I'd like to get more experience contributing to open-souce projects and some han
         <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>
       </a>
  
- <a href="https://www.codewars.com/users/gorbulus/completed">
-        <img alt="codewars badge small" src="https://www.codewars.com/users/gorbulus/badges/small" />
-      </a>
-
 <a href="https://medium.com/@waponton">
         <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
       </a>
+
+<div>
+      <a href="https://www.codewars.com/users/gorbulus/completed">
+              <img alt="codewars badge small" src="https://www.codewars.com/users/gorbulus/badges/small" />
+            </a>
+</div>
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=dark)
 
