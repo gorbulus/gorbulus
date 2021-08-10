@@ -31,10 +31,10 @@ I'd like to get more experience contributing to open-souce projects and some han
   <a href="https://www.kaggle.com/pontwa">
         <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
       </a>
-
-  <a href="https://leetcode.com/waponton/">
-       <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
-      </a>  
+  
+  <a href="https://medium.com/@waponton">
+        <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
+      </a>
 </div>
 
 ### Projects
@@ -46,17 +46,16 @@ I'd like to get more experience contributing to open-souce projects and some han
 <a href="https://repl.it/@gorbulus">
         <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/>
       </a>
- 
-<a href="https://medium.com/@waponton">
-        <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"/>
-      </a>
-</div>
+ </div>
 
-### Codewars
+### Code challenges
 <div>
       <a href="https://www.codewars.com/users/gorbulus/completed">
               <img alt="codewars badge small" src="https://www.codewars.com/users/gorbulus/badges/large" />
             </a>
+      <a href="https://leetcode.com/waponton/">
+              <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
+            </a>  
 </div>
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=dark)
