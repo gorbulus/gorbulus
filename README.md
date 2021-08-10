@@ -49,14 +49,20 @@ I'd like to get more experience contributing to open-souce projects and some han
  </div>
 
 ### Code challenges
+
+<div>
+      <a href="https://leetcode.com/waponton/">
+              <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
+            </a>  
+  </div>
+
 <div>
       <a href="https://www.codewars.com/users/gorbulus/completed">
               <img alt="codewars badge small" src="https://www.codewars.com/users/gorbulus/badges/large" />
             </a>
-      <a href="https://leetcode.com/waponton/">
-              <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
-            </a>  
 </div>
+
+### GitHub stats
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbulus&count_private=true&show_icons=true&theme=dark)
 
