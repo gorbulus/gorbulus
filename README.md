@@ -4,8 +4,6 @@
 
 # Hey! I'm @gorbulus (Will Ponton) 👋
 
-Pronouns: he/him/his 😄
-
 I'm a software developer from Dallas, Texas 🐮 and I'm currently living in Jacksonville, Florida. 🌴
 
 I'm passionate about guitars, data, and my dogs - Jazzy and Piper. 🎸
