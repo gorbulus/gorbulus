@@ -4,7 +4,7 @@
 
 # Hey! I'm @gorbulus (Will Ponton) 👋
 
-I'm a software developer from Dallas, Texas 🐮 and I'm currently living in Jacksonville, Florida. 🌴
+I'm a software developer from Dallas, Texas 🐮 and I'm currently living in Denver, Colorado. 🌄 
 
 I'm passionate about guitars, data, and my dogs - Jazzy and Piper. 🎸
 
@@ -14,7 +14,7 @@ I'm working as a Product Manager and use my tech and creative talents to build m
 
 I follow the 'Jobs to be done' Product management philosophy - customers 'hire' your poduct to satisfy job steps. 👷
 
-I'm currently dedicating a high percentage of my time to learning Django, playing with datasets, and improving my UI skills. 🐍
+I'm currently dedicating a high percentage of my time to learning Django, playing with datasets, and honing my UI skills. 🐍
 
 I'd like to get more experience contributing to open-souce projects and some hands-on work with APIs. 👯  
 
